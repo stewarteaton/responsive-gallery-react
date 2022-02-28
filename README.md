@@ -10,6 +10,7 @@
         <li> Used Unsplash API to query images requested by user, and passed image data to React frontend</li>
         <li> Obscures users interaction or visibility to  Unsplash API </li>
         <li> Implemented error handling</li>
+    </ul>
 
 <br/>
 <br/>
